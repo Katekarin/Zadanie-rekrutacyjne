@@ -1,0 +1,1 @@
+class UserNotFoundException extends RuntimeException {}
